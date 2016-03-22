@@ -3,7 +3,8 @@ package com.ssaurel.mytetris;
 import java.util.Random;
 
 public class Shape {
-	 
+  private final static int four = 4;
+  private final static int two = 2;
   enum Tetrominos {
 	NoShape(new int[][] { { 0, 0 }, { 0, 0 }, { 0, 0 } , { 0, 0 } }), //содержит координаты фигур
 	ZShape(new int[][] { { 0,-1 }, { 0, 0 }, { -1, 0 } , { -1, 1 } }),
@@ -27,14 +28,14 @@ public class Shape {
   
   //конструктор по умолчанию (устанавливается пустая фигура)
   public Shape() {				
-	coords = new int [4][2];
+	coords = new int [four][two];
 	setShape(Tetrominos.NoShape); 
   }
 
   //создать текущую фигуру
   public void setShape(Tetrominos shape) {
-	for(int i = 0; i < 4; i++) {
-		for(int j = 0; j < 2 ; ++j) {
+	for(int i = 0; i < four; i++) {
+		for(int j = 0; j < two ; ++j) {
 			coords[i][j] = shape.coords[i][j];
 	    }
     }		
