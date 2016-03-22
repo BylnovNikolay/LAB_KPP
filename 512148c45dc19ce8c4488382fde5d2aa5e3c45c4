@@ -25,6 +25,29 @@
     },
     {
       "key": {
+        "uuid": "da9b358b_01952ae3",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "magic number",
+      "range": {
+        "startLine": 22,
+        "startChar": 1,
+        "endLine": 26,
+        "endChar": 25
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da9b358b_81549a54",
         "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
         "patchSetId": 1
@@ -41,6 +64,52 @@
         "startChar": 4,
         "endLine": 38,
         "endChar": 23
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_c19e2207",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "magic",
+      "range": {
+        "startLine": 40,
+        "startChar": 19,
+        "endLine": 40,
+        "endChar": 22
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_a1a31e4f",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "magic",
+      "range": {
+        "startLine": 66,
+        "startChar": 21,
+        "endLine": 66,
+        "endChar": 22
       },
       "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
@@ -140,6 +209,29 @@
     },
     {
       "key": {
+        "uuid": "da9b358b_81893acd",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "magic",
+      "range": {
+        "startLine": 139,
+        "startChar": 23,
+        "endLine": 139,
+        "endChar": 24
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da9b358b_81db7aed",
         "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
         "patchSetId": 1
@@ -156,6 +248,98 @@
         "startChar": 4,
         "endLine": 144,
         "endChar": 27
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_6174f6ce",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "i think it might be:\nisPaused \u003d !isPaused; - deleted\nif (!isPaused) { - corrected",
+      "range": {
+        "startLine": 166,
+        "startChar": 2,
+        "endLine": 175,
+        "endChar": 3
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_618636bb",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "magic",
+      "range": {
+        "startLine": 181,
+        "startChar": 22,
+        "endLine": 181,
+        "endChar": 23
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_81b01a8d",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "i think, it\u0027s might be united",
+      "range": {
+        "startLine": 185,
+        "startChar": 3,
+        "endLine": 190,
+        "endChar": 4
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_8177fad3",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "delete",
+      "range": {
+        "startLine": 219,
+        "startChar": 31,
+        "endLine": 219,
+        "endChar": 32
       },
       "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
@@ -209,6 +393,52 @@
     },
     {
       "key": {
+        "uuid": "da9b358b_a171dee2",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 261,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "insert {}",
+      "range": {
+        "startLine": 257,
+        "startChar": 3,
+        "endLine": 261,
+        "endChar": 3
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_c16ce20a",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 284,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "https://google.github.io/styleguide/javaguide.html#s4.8.4.2-switch-fall-through   switch-case formating",
+      "range": {
+        "startLine": 261,
+        "startChar": 3,
+        "endLine": 284,
+        "endChar": 4
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da9b358b_c1e742ab",
         "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
         "patchSetId": 1
@@ -248,6 +478,75 @@
         "startChar": 67,
         "endLine": 8,
         "endChar": 93
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_61d876f0",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Shape.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "comments in english",
+      "range": {
+        "startLine": 8,
+        "startChar": 67,
+        "endLine": 8,
+        "endChar": 94
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_e1f2466f",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Shape.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "magic number",
+      "range": {
+        "startLine": 30,
+        "startChar": 18,
+        "endLine": 30,
+        "endChar": 23
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_a1ec3e90",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Shape.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "magic number",
+      "range": {
+        "startLine": 36,
+        "startChar": 20,
+        "endLine": 36,
+        "endChar": 21
       },
       "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
@@ -335,6 +634,29 @@
       "writtenOn": "2016-03-22T20:03:47Z",
       "side": 1,
       "message": "Use better define value like (public static final WIDTH 200)",
+      "range": {
+        "startLine": 19,
+        "startChar": 1,
+        "endLine": 19,
+        "endChar": 18
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_a1d55eba",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Tetris.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:12:24Z",
+      "side": 1,
+      "message": "magic number",
       "range": {
         "startLine": 19,
         "startChar": 1,
