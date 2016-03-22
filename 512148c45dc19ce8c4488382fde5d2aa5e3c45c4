@@ -1,0 +1,303 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da9b358b_e164864a",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "Code style. Make one parameter in string.\nExample:\nfunc(one,\n two,\n five){}",
+      "range": {
+        "startLine": 22,
+        "startChar": 2,
+        "endLine": 26,
+        "endChar": 25
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_81549a54",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "Code style. Where tab?",
+      "range": {
+        "startLine": 38,
+        "startChar": 4,
+        "endLine": 38,
+        "endChar": 23
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_214b8eb2",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "Code style. More then 80 symbols in string.",
+      "range": {
+        "startLine": 116,
+        "startChar": 2,
+        "endLine": 117,
+        "endChar": 90
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_01c76a13",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "80 symbols...",
+      "range": {
+        "startLine": 133,
+        "startChar": 5,
+        "endLine": 133,
+        "endChar": 76
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_81db7aed",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "One parameter at string",
+      "range": {
+        "startLine": 142,
+        "startChar": 4,
+        "endLine": 144,
+        "endChar": 27
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_41e572a6",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 242,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "tab",
+      "range": {
+        "startLine": 242,
+        "startChar": 2,
+        "endLine": 242,
+        "endChar": 9
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_c1e742ab",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 285,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "Code style. See .. \nhttps://google.github.io/styleguide/cppguide.html#Loops_and_Switch_Statements",
+      "range": {
+        "startLine": 262,
+        "startChar": 3,
+        "endLine": 285,
+        "endChar": 3
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_81025a3d",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Shape.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "English lang",
+      "range": {
+        "startLine": 8,
+        "startChar": 67,
+        "endLine": 8,
+        "endChar": 93
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_61ff5635",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Shape.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "Tab",
+      "range": {
+        "startLine": 40,
+        "startChar": 1,
+        "endLine": 40,
+        "endChar": 6
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_21f94e4e",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Shape.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "Tab",
+      "range": {
+        "startLine": 95,
+        "startChar": 4,
+        "endLine": 95,
+        "endChar": 31
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_e1992621",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Tetris.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "tab",
+      "range": {
+        "startLine": 12,
+        "startChar": 4,
+        "endLine": 12,
+        "endChar": 58
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_01bc0a6b",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Tetris.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "Use better define value like (public static final WIDTH 200)",
+      "range": {
+        "startLine": 19,
+        "startChar": 1,
+        "endLine": 19,
+        "endChar": 18
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_e1c006e3",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Tetris.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:03:47Z",
+      "side": 1,
+      "message": "Use better define...",
+      "range": {
+        "startLine": 20,
+        "startChar": 1,
+        "endLine": 20,
+        "endChar": 26
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
