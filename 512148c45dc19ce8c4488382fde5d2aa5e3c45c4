@@ -577,6 +577,29 @@
     },
     {
       "key": {
+        "uuid": "da9b358b_e14ec695",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Shape.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:37:56Z",
+      "side": 1,
+      "message": "magic",
+      "range": {
+        "startLine": 68,
+        "startChar": 33,
+        "endLine": 68,
+        "endChar": 34
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da9b358b_21f94e4e",
         "filename": "MyTetris/src/com/ssaurel/mytetris/Shape.java",
         "patchSetId": 1
@@ -685,6 +708,29 @@
         "startChar": 1,
         "endLine": 20,
         "endChar": 26
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_014aca83",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Tetris.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-03-22T20:37:56Z",
+      "side": 1,
+      "message": "https://google.github.io/styleguide/javaguide.html#s4.2-block-indentation",
+      "range": {
+        "startLine": 29,
+        "startChar": 4,
+        "endLine": 29,
+        "endChar": 35
       },
       "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
