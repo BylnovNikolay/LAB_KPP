@@ -48,6 +48,29 @@
     },
     {
       "key": {
+        "uuid": "da9b358b_41aa121b",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:07:54Z",
+      "side": 1,
+      "message": "Code Style. See https://google.github.io/styleguide/javaguide.html#s4-formatting",
+      "range": {
+        "startLine": 97,
+        "startChar": 1,
+        "endLine": 98,
+        "endChar": 47
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da9b358b_214b8eb2",
         "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
         "patchSetId": 1
@@ -64,6 +87,29 @@
         "startChar": 2,
         "endLine": 117,
         "endChar": 90
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_21a70e51",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:07:54Z",
+      "side": 1,
+      "message": "Code style. See https://google.github.io/styleguide/javaguide.html#s4-formatting",
+      "range": {
+        "startLine": 121,
+        "startChar": 1,
+        "endLine": 122,
+        "endChar": 32
       },
       "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
@@ -133,6 +179,29 @@
         "startChar": 2,
         "endLine": 242,
         "endChar": 9
+      },
+      "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_0163ea1b",
+        "filename": "MyTetris/src/com/ssaurel/mytetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 250,
+      "author": {
+        "id": 1007640
+      },
+      "writtenOn": "2016-03-22T20:07:54Z",
+      "side": 1,
+      "message": "CS",
+      "range": {
+        "startLine": 249,
+        "startChar": 2,
+        "endLine": 250,
+        "endChar": 38
       },
       "revId": "512148c45dc19ce8c4488382fde5d2aa5e3c45c4",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
