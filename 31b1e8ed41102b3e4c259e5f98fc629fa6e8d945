@@ -1,0 +1,211 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_db0de438",
+        "filename": "newtetris/Aggregate.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-04-05T16:01:03Z",
+      "side": 1,
+      "message": "delete this spaces",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 2
+      },
+      "revId": "31b1e8ed41102b3e4c259e5f98fc629fa6e8d945",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_bb13405c",
+        "filename": "newtetris/Aggregate.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-04-05T16:01:03Z",
+      "side": 1,
+      "message": "delete space",
+      "range": {
+        "startLine": 8,
+        "startChar": 2,
+        "endLine": 8,
+        "endChar": 3
+      },
+      "revId": "31b1e8ed41102b3e4c259e5f98fc629fa6e8d945",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_9b107c50",
+        "filename": "newtetris/Aggregate.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-04-05T16:01:03Z",
+      "side": 1,
+      "message": "delete space",
+      "range": {
+        "startLine": 9,
+        "startChar": 2,
+        "endLine": 9,
+        "endChar": 3
+      },
+      "revId": "31b1e8ed41102b3e4c259e5f98fc629fa6e8d945",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_1b2b4c84",
+        "filename": "newtetris/Aggregate.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-04-05T16:01:03Z",
+      "side": 1,
+      "message": "useless expression",
+      "range": {
+        "startLine": 25,
+        "startChar": 12,
+        "endLine": 25,
+        "endChar": 26
+      },
+      "revId": "31b1e8ed41102b3e4c259e5f98fc629fa6e8d945",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_bb3a20cc",
+        "filename": "newtetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-04-05T16:01:03Z",
+      "side": 1,
+      "message": "delete spaces",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 6,
+        "endChar": 2
+      },
+      "revId": "31b1e8ed41102b3e4c259e5f98fc629fa6e8d945",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_1b522c14",
+        "filename": "newtetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-04-05T16:01:03Z",
+      "side": 1,
+      "message": "formatting",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 24
+      },
+      "revId": "31b1e8ed41102b3e4c259e5f98fc629fa6e8d945",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_bb41003c",
+        "filename": "newtetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-04-05T16:01:03Z",
+      "side": 1,
+      "message": "maybe SIDE?",
+      "range": {
+        "startLine": 113,
+        "startChar": 23,
+        "endLine": 113,
+        "endChar": 24
+      },
+      "revId": "31b1e8ed41102b3e4c259e5f98fc629fa6e8d945",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_9b3e3cb7",
+        "filename": "newtetris/Board.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-04-05T16:01:03Z",
+      "side": 1,
+      "message": "SIDE?",
+      "range": {
+        "startLine": 121,
+        "startChar": 23,
+        "endLine": 121,
+        "endChar": 24
+      },
+      "revId": "31b1e8ed41102b3e4c259e5f98fc629fa6e8d945",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_db5ba42d",
+        "filename": "newtetris/CleanLines.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1007669
+      },
+      "writtenOn": "2016-04-05T16:01:03Z",
+      "side": 1,
+      "message": "for(int i \u003d 0; i \u003c SIDE; i++) {\n  cleanLines[i] \u003d WHITE;\n}",
+      "range": {
+        "startLine": 22,
+        "startChar": 3,
+        "endLine": 25,
+        "endChar": 25
+      },
+      "revId": "31b1e8ed41102b3e4c259e5f98fc629fa6e8d945",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
