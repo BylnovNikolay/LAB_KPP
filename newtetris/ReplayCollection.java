@@ -1,3 +1,5 @@
+
+
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.io.File;
@@ -152,7 +154,7 @@ public class ReplayCollection {
       String fileName = new String(Integer.toString(event.getY() / CELL_HIEGHT + 1));
       System.out.println(fileName);     
       ReplayFrame.dispose();
-      new New(0, fileName);
+      new GameThread(0, fileName);
     }
 
     @Override
@@ -173,30 +175,11 @@ public class ReplayCollection {
     @Override
     public void mouseReleased(MouseEvent arg0) {
     }
-  }
+  }  
+  
 }
 
-class New implements Runnable {
-	  Thread t; 
-	  String fileName;
-	  int mode;
-	  New(int mode, String fileName) {
-	    t = new Thread(this, "son");
-	    t.start();
-	    this.fileName = fileName;
-	    this.mode = mode;
-	  }
 
-	  public void run() {
-	    try {
-	      Controler cont = new Controler(mode,fileName);
-	      cont.start();
-	    } catch (IOException e) {
-	      // TODO Auto-generated catch block
-	      e.printStackTrace();
-	    }
-	  }
-	}
 
 
 

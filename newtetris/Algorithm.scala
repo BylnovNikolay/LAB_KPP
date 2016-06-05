@@ -1,4 +1,4 @@
-
+package HeadPackage;
 
 class Algorithm {
   val I_SHAPE: Int = 0
@@ -9,57 +9,83 @@ class Algorithm {
   val T_SHAPE: Int = 5
   val Z_SHAPE: Int = 6  
 
-  def getFigure(xs: Array[Int], toFind: Int): IndexedSeq[Int] =
-    for (i <- 0 until xs.length if xs(i) == toFind) yield xs(i)
+  def getFigure(ls: Array[Int], toFind: Int): IndexedSeq[Int] =
+    for (i <- 0 until ls.length if ls(i) == toFind) yield ls(i)
 
-  def countIShape(xs: Array[Int]): Int = {
-    getFigure(xs, I_SHAPE).length
+  def countIShape(ls: Array[Int]): Int = {
+    getFigure(ls, I_SHAPE).length
   }
 
-  def countJShape(xs: Array[Int]): Int = {
-    getFigure(xs, J_SHAPE).length
+  def countJShape(ls: Array[Int]): Int = {
+    getFigure(ls, J_SHAPE).length
   }
   
-  def countLShape(xs: Array[Int]): Int = {
-    getFigure(xs, L_SHAPE).length
+  def countLShape(ls: Array[Int]): Int = {
+    getFigure(ls, L_SHAPE).length
   }
 
-   def countOShape(xs: Array[Int]): Int = {
-    getFigure(xs, O_SHAPE).length
+   def countOShape(ls: Array[Int]): Int = {
+    getFigure(ls, O_SHAPE).length
   }
    
-   def countSShape(xs: Array[Int]): Int = {
-    getFigure(xs, S_SHAPE).length
+   def countSShape(ls: Array[Int]): Int = {
+    getFigure(ls, S_SHAPE).length
   }
    
-   def countTShape(xs: Array[Int]): Int = {
-    getFigure(xs, T_SHAPE).length
+   def countTShape(ls: Array[Int]): Int = {
+    getFigure(ls, T_SHAPE).length
   }
    
-    def countZShape(xs: Array[Int]): Int = {
-    getFigure(xs, Z_SHAPE).length
+    def countZShape(ls: Array[Int]): Int = {
+    getFigure(ls, Z_SHAPE).length
   }
    
-  def checkIn(xs: String, ys: String): Boolean = {
-    xs.contains(ys)
+  def checkIn(ls: String, ys: String): Boolean = {
+    ls.contains(ys)
   }
-
-  def findMaxRepeatedSeq(xs: Array[String]): String = {
+  def convert(ls:String):String = {
+   val info = " "
+   val LEFT = 'L';
+   val RIGHT = 'R';
+   val DOWN = 'D';
+   val DROP = 'P';
+   val ROTATE = 'V';
+   for (elem <- ls) {
+     if(elem == LEFT) {
+        info + "LEFT ";
+      }
+      if(elem == RIGHT) {
+        info + "RIGHT ";
+      }
+      if(elem == DOWN) {
+    	info + "DOWN ";
+      }
+      if(elem == DROP) {
+    	info + "DROP ";    		
+      }
+      if(elem == ROTATE) {
+        info + "ROTATE ";
+      }
+   }
+   info
+  }
+  
+  def findLine(ls: Array[String]): String = {    
+    var Max = ""
     var min = 0
-    for (elem <- xs) {
-      if (elem.length < xs(min).length) min = xs.indexOf(elem)
-    }
-    var maxString = ""
-    for (i <- 0 until xs(min).length)
-      for (j <- i + 1 until xs(min).length) {
+    for (elem <- ls) {
+      if (elem.length < ls(min).length) min = ls.indexOf(elem)
+    }    
+    for (i <- 0 until ls(min).length)
+      for (j <- i + 1 until ls(min).length) {
         var fl = true
-        for (elem <- xs) {
-          if (!checkIn(elem, xs(min).substring(i, j)))
+        for (elem <- ls) {
+          if (!checkIn(elem, ls(min).substring(i, j)))
             fl = false
         }
-        if (fl && (maxString.length < xs(min).substring(i, j).length))
-          maxString = xs(min).substring(i, j)
+        if (fl && (Max.length < ls(min).substring(i, j).length))
+          Max = ls(min).substring(i, j)
       }
-    maxString
+    Max
   }
 }
